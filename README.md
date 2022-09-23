@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonel Velázquez</h1>
 <h3 align="center">A passionate data scientist from Mexico</h3>
 
-- 🔭 I’m currently working on **a electrical company as a data scientist, I analyse and interpret data to get some KPI that are useful to improve the performnce of the renewable plants**
-
+- 🔭 I’m currently working in **a electrical company as a data scientist, I analyse and interpret data to get some KPI that are useful to improve the performnce of the renewable plants**
+- 🔭 I’m currently secondly working **on personal projects to develop useful tools that can give you the information you need to find a house or an event in your city, you can check this on my repo**
 - 🌱 I’m currently learning **MongoDB and Django**
 
 - 👯 I’m looking to collaborate on **on creative projects, support and learn from amazing people**
