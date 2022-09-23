@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonel Velázquez</h1>
 <h3 align="center">A passionate data scientist from Mexico</h3>
 
-- 🔭 I’m currently working on **in a electrical company using ML and AI to analyse and interpret data**
+- 🔭 I’m currently working on ** a electrical company as a data scientist, I analyse and interpret data to get some KPI that are useful to improve the performnce of the renewable plants**
 
 - 🌱 I’m currently learning **MongoDB and Django**
 
