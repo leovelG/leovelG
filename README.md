@@ -5,7 +5,7 @@
 - 🔭 I’m currently secondly working **on personal projects to develop useful tools that can give you the information you need to find a house or an event in your city, you can check this on my repo**
 - 🌱 I’m currently learning **MongoDB and Django**
 
-- 👯 I’m looking to collaborate on **on creative projects, support and learn from amazing people**
+- 👯 I’m looking to collaborate on **on creative projects, support and learn from amazing people, I'm also open for job opportunities I have experience in ML and data managing**
 
 - 📫 How to reach me **I have social media and you can send me an email to leonel.velg@gmail.com**
 
